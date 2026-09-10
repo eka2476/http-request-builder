@@ -3,8 +3,8 @@
 Assignment 1 - Builder pattern in Java.
 
 Product: HTTP request. Two builders make two different things from the same steps:
-- HttpRequestObjectBuilder -> HttpRequest object
-- CurlCommandBuilder -> cURL command as a string
+- HttpRequestObjectBuilder - HttpRequest object
+- CurlCommandBuilder - cURL command as a string
 
 RequestDirector has two ready configs (GET, authenticated POST).
 
